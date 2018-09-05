@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDSession", "TDDSession\TDDSession.csproj", "{C655E611-B468-4332-B12E-18F6F4719944}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDSessionUnitTests", "TDDSessionUnitTests\TDDSessionUnitTests.csproj", "{B0CF9DDD-56C3-4B9F-9944-C3CEAC39DCC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C655E611-B468-4332-B12E-18F6F4719944}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C655E611-B468-4332-B12E-18F6F4719944}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C655E611-B468-4332-B12E-18F6F4719944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0CF9DDD-56C3-4B9F-9944-C3CEAC39DCC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CF9DDD-56C3-4B9F-9944-C3CEAC39DCC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CF9DDD-56C3-4B9F-9944-C3CEAC39DCC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CF9DDD-56C3-4B9F-9944-C3CEAC39DCC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

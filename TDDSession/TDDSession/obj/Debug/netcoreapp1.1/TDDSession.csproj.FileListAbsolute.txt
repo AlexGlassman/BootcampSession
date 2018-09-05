@@ -1,0 +1,10 @@
+C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSession\bin\Debug\netcoreapp1.1\TDDSession.deps.json
+C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSession\bin\Debug\netcoreapp1.1\TDDSession.runtimeconfig.json
+C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSession\bin\Debug\netcoreapp1.1\TDDSession.runtimeconfig.dev.json
+C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSession\bin\Debug\netcoreapp1.1\TDDSession.dll
+C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSession\bin\Debug\netcoreapp1.1\TDDSession.pdb
+C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSession\obj\Debug\netcoreapp1.1\TDDSession.csprojResolveAssemblyReference.cache
+C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSession\obj\Debug\netcoreapp1.1\TDDSession.csproj.CoreCompileInputs.cache
+C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSession\obj\Debug\netcoreapp1.1\TDDSession.AssemblyInfo.cs
+C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSession\obj\Debug\netcoreapp1.1\TDDSession.dll
+C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSession\obj\Debug\netcoreapp1.1\TDDSession.pdb
