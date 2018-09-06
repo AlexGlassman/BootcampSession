@@ -1,6 +1,7 @@
 C:\Users\alex.glassman\BootcampSession\TDDSession\UnitTestExample\bin\Debug\UnitTestExample.exe.config
 C:\Users\alex.glassman\BootcampSession\TDDSession\UnitTestExample\bin\Debug\UnitTestExample.exe
 C:\Users\alex.glassman\BootcampSession\TDDSession\UnitTestExample\bin\Debug\UnitTestExample.pdb
+C:\Users\alex.glassman\BootcampSession\TDDSession\UnitTestExample\obj\Debug\UnitTestExample.csprojResolveAssemblyReference.cache
 C:\Users\alex.glassman\BootcampSession\TDDSession\UnitTestExample\obj\Debug\UnitTestExample.csproj.CoreCompileInputs.cache
 C:\Users\alex.glassman\BootcampSession\TDDSession\UnitTestExample\obj\Debug\UnitTestExample.exe
 C:\Users\alex.glassman\BootcampSession\TDDSession\UnitTestExample\obj\Debug\UnitTestExample.pdb

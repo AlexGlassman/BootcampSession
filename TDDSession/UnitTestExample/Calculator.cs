@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace UnitTestExample
 {
-    class UnitTestExample
+    class Calculator
     {
-        public bool ReturnTrue()
-        {
-            return true;
-        }
     }
 }
