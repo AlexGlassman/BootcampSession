@@ -11,11 +11,17 @@ namespace TDDSessionUnitTests
     public class UnitTestExampleShould
     {
 
+        [SetUp]
+        public void SetUp()
+        {
+            //Gets called before tests are called. Like a constructor.
+        }
+
         [Test]
         public void ReturnTrue()
         {
             var expected = true;
-            var actual = true;
+            var actual = false;
             Assert.AreEqual(expected, actual);
         }
     }
