@@ -15,6 +15,7 @@ namespace TDDSessionUnitTests
         public void SetUp()
         {
             //Gets called before tests are called. Like a constructor.
+           // UnitTestExample unitTestExample;
         }
 
         [Test]
