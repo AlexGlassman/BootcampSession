@@ -10,7 +10,6 @@ C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSessionUnitTests\bin\Debug\
 C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSessionUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSessionUnitTests\bin\Debug\nunit.framework.pdb
 C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSessionUnitTests\bin\Debug\nunit.framework.xml
-C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSessionUnitTests\obj\Debug\TDDSessionUnitTests.csprojResolveAssemblyReference.cache
 C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSessionUnitTests\obj\Debug\TDDSessionUnitTests.csproj.CoreCompileInputs.cache
 C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSessionUnitTests\obj\Debug\TDDSessionUnitTests.dll
 C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSessionUnitTests\obj\Debug\TDDSessionUnitTests.pdb
