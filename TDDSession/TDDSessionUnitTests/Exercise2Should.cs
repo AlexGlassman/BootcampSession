@@ -27,5 +27,6 @@ namespace TDDSessionUnitTests
             var actual = ex2.Calculate(num1, num2, op);
             Assert.AreEqual(expected, actual);
         }
+
     }
 }
