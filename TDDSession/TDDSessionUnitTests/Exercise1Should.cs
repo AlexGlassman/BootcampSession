@@ -9,31 +9,30 @@ using UnitTestExample;
 namespace TDDSessionUnitTests
 {
     [TestFixture]
-    public class UnitTestExampleShould
+    public class Exercise1Should
     {
-        private Example example;
+        private Exercise1 exercise1;
 
         [SetUp]
         public void SetUp()
         {
-           example = new Example();
+           exercise1 = new Exercise1();
         }
 
         [Test]
         public void ReturnTrue()
         {
             var expected = true;
-            var actual = example.ReturnTrue();
+            var actual = exercise1.GetTrue();
             Assert.AreEqual(expected, actual);
         }
 
         [Test]
-        public void AddInt()
+        public void ReturnNum()
         {
-            var expected = 2;
-            List <int> intList = new List<int>() {1, 1};
-            var actual = example.AddInts(intList);
-            Assert.AreEqual(expected,actual);
+            var expected = 5;
+            var actual = exercise1.GetFive();
+            Assert.AreEqual(expected, actual);
         }
     }
 }
