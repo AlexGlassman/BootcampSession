@@ -8,7 +8,6 @@ namespace UnitTestExample
 {
     public class Exercise2
     {
-
         public int Calculate(int num1, int num2, string op)
         {
             switch (op)
