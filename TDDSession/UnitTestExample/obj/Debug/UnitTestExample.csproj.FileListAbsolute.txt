@@ -5,3 +5,5 @@ C:\Users\alex.glassman\BootcampSession\TDDSession\UnitTestExample\obj\Debug\Unit
 C:\Users\alex.glassman\BootcampSession\TDDSession\UnitTestExample\obj\Debug\UnitTestExample.csproj.CoreCompileInputs.cache
 C:\Users\alex.glassman\BootcampSession\TDDSession\UnitTestExample\obj\Debug\UnitTestExample.exe
 C:\Users\alex.glassman\BootcampSession\TDDSession\UnitTestExample\obj\Debug\UnitTestExample.pdb
+C:\Users\alex.glassman\BootcampSession\TDDSession\UnitTestExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alex.glassman\BootcampSession\TDDSession\UnitTestExample\bin\Debug\Newtonsoft.Json.xml

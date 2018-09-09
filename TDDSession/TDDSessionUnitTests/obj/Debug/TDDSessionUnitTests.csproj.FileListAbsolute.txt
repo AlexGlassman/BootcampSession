@@ -17,3 +17,5 @@ C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSessionUnitTests\bin\Debug\
 C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSessionUnitTests\bin\Debug\nunit.framework.xml
 C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSessionUnitTests\obj\Debug\TDDSessionUnitTests.dll
 C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSessionUnitTests\obj\Debug\TDDSessionUnitTests.pdb
+C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSessionUnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alex.glassman\BootcampSession\TDDSession\TDDSessionUnitTests\bin\Debug\Newtonsoft.Json.xml

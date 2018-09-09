@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 using UnitTestExample;
 
 namespace TDDSessionUnitTests
@@ -15,19 +16,25 @@ namespace TDDSessionUnitTests
         [SetUp]
         public void SetUp()
         {
-            order = GenerateOrder();
-        }     
+        
+        }
 
-        private Order GenerateOrder()
+
+        [Test]
+        public void GetAllValues()
         {
-            return new Order()
+            var order = new Order()
             {
                 CustomerName = "Jim",
                 OrderNo = 1234,
                 OrderTime = DateTime.Now,
-                Items = GetItemList(1)
+                Items = GetItemList(5)
             };
-        }
+
+            var expectedOrder = JsonConvert.SerializeObject(order);
+            Assert.AreEqual(expectedOrder, order.GetAllAttributes());
+
+        } 
 
         private List<Item> GetItemList(int numOfItems)
         {

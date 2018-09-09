@@ -13,16 +13,14 @@ namespace UnitTestExample
             return false;
         }
 
-        public int GetFive()
+        public int GetNum()
         {
             return 6;
         }
 
-        public int DivideByZero()
+        public void ThrowException()
         {
-            int zero = 0;
-            int num = 1 / zero;
-            return num;
+            throw new Exception("This is an exception!");
         }
     }
 }

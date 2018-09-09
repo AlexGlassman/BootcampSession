@@ -20,7 +20,7 @@ namespace TDDSessionUnitTests
         }
 
         [Test]
-        public void ReturnTrue()
+        public void GetTrue()
         {
             var expected = true;
             var actual = exercise1.GetTrue();
@@ -28,11 +28,20 @@ namespace TDDSessionUnitTests
         }
 
         [Test]
-        public void ReturnNum()
+        public void GetNum()
         {
             var expected = 5;
             var actual = exercise1.GetFive();
             Assert.AreEqual(expected, actual);
+        }
+
+        [Test]
+        public void ThrowException()
+        {
+            //without generics + if void method
+            Assert.Throws(typeof(Exception), exercise1.ThrowException);
+            //with generics and method isn't void
+            Assert.Throws<Exception>(delegate {exercise1.ThrowException();});
         }
     }
 }

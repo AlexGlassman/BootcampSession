@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace UnitTestExample
 {
@@ -17,6 +18,10 @@ namespace UnitTestExample
         public string CustomerName { get; set; }
         public DateTime OrderTime { get; set; }
         public List<Item> Items { get; set; }
+        public string GetAllAttributes()
+        {
+            return JsonConvert.SerializeObject(this);
+        }
     }
 
     public class Item
